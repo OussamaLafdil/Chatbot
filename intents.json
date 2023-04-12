@@ -1,0 +1,150 @@
+{
+    "intents": [
+        {
+            "tag": "salutation",
+            "patterns": [
+                "Bonjour!",
+                "Salut!",
+                "Bonsoir!",
+                "Salutations!",
+                "Coucou!",
+                "Hello!",
+                "Bon matin!",
+                "Bon après-midi!",
+                "Bonsoir, comment ça va?",
+                "Comment ca va",
+                "Est-ce que quelqu'un est la?",
+                "Hello",
+                "Bonne journee"
+            ],
+            "responses": [
+                "Salut :-)",
+                "Bonjour, merci d'avoir visite notre magasin",
+                "Bonjour, que puis-je faire pour vous?",
+                "Bonjour, comment puis-je vous aider?"
+            ]
+        },
+        {
+            "tag": "au revoir",
+            "patterns": [
+                "Au revoir",
+                "A plus tard",
+                "À bientôt",
+                "À plus tard",
+                "Bye",
+                "Bonne journée",
+                "À la prochaine",
+                "À demain",
+                "Prenez soin de vous",
+                "Bonne soirée",
+                "Bonne nuit",
+                "À la revoyure",
+                "À la semaine prochaine",
+                "À la prochaine fois",
+                "À la prochaine occasion",
+                "C'était sympa de vous voir, à plus",
+                "Bonne journee"
+                
+            ],
+            "responses": [
+                "A bientot, merci d'etre venu",
+                "Bon apres-midi",
+                "Bye! Revenez bientot."
+            ]
+        },
+        {
+            "tag": "remerciements",
+            "patterns": [
+                "Merci",
+                "Merci beaucoup",
+                "C'est utile",
+                "Merci bien!",
+                "Je vous remercie!",
+                "C'est très gentil de votre part!",
+                "Je vous suis reconnaissant(e)!",
+                "Je vous exprime toute ma gratitude!",
+                "Je vous suis très reconnaissant(e)!"
+                
+            ],
+            "responses": [
+                "Ravi de pouvoir aider!",
+                "A tout moment!",
+                "Avec plaisir"
+            ]
+        },
+        {
+            "tag": "articles",
+            "patterns": [
+                "Quels articles avez-vous?",
+                "Quels types d'articles y a-t-il?",
+                "Quels genres d'articles proposez-vous?",
+                "Quels produits avez-vous en stock?",
+                "Quels articles pouvez-vous me proposer?",
+                "Pouvez-vous me dire ce que vous vendez?",
+                "Je cherche à savoir quels types d'articles vous avez, pouvez-vous m'en dire plus?",
+                "Qu'est-ce que vous vendez?"
+            ],
+            "responses": [
+                "Nous vendons des chaussures de sport, des equipements de sport et des accessoires de sport.",
+                "Nous avons des chaussures de sport, des equipements de sport et des accessoires de sport."
+            ]
+        },
+        {
+            "tag": "paiements",
+            "patterns": [
+                "Acceptez-vous les cartes de credit?",
+                "Acceptez-vous Mastercard?",
+                "Puis-je payer avec Paypal?",
+                "Quels sont les modes de paiement acceptés ?",
+                "Comment puis-je régler ma commande ?",
+                "Quels sont les moyens de paiement disponibles ?",
+                "Pouvez-vous me dire comment je peux payer ?",
+                "Acceptez-vous les paiements par carte bancaire ?",
+                "Quelles sont les options de paiement que vous proposez ?"
+            ],
+            "responses": [
+                "Nous acceptons VISA, Mastercard et Paypal",
+                "Nous acceptons la plupart des grandes cartes de credit et Paypal"
+            ]
+        },
+        {
+            "tag": "livraison",
+            "patterns": [
+                "Combien de temps prend la livraison?",
+                "Quels sont les délais de livraison ?",
+                "Quand vais-je recevoir ma commande ?",
+                "Combien de temps prendra la livraison ?",
+                "Comment sera effectuée la livraison ?",
+                "Quels sont les frais de livraison ?",
+                "Proposez-vous une livraison express ?"
+                
+            ],
+            "responses": [
+                "La livraison prend 2 a 4 jours",
+                "L'expedition prend 2 a 4 jours"
+            ]
+        },
+        {
+            "tag": "drole",
+            "patterns": [
+                "Raconte-moi une blague!",
+                "Pouvez-vous me raconter une blague ?",
+                "Avez-vous une blague à me dire ?",
+                "Connaissez-vous une blague amusante ?",
+                "Pourriez-vous me faire rire avec une blague ?",
+                "Auriez-vous une petite histoire drôle à me raconter ?",
+                "Pouvez-vous partager une blague avec moi ?"
+                
+            ],
+            "responses": [
+                "Pourquoi le ballon de basket a-t-il du aller a la banque? Il voulait faire une passe rebondissante!",
+                "Comment le ballon de football s'est-il senti apres etre alle a la salle de sport? Gonfle a bloc!",
+                "Pourquoi le tennis de table est-il un sport bruyant ? Parce que les joueurs sont toujours en train de ping-pong !",
+                "Pourquoi le ballon de football était-il triste ? Parce qu'il avait été déflaté par les critiques.",
+                "Pourquoi la raquette de tennis a-t-elle été arrêtée par la police ? Parce qu'elle avait un service trop rapide !",
+                "Pourquoi la piste d'athlétisme est-elle toujours stressée ? Parce qu'elle a toujours des courses à gérer."
+            ]
+        }
+    ]
+  }
+  
